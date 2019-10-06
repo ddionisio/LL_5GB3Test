@@ -1,0 +1,16 @@
+{
+"companyName": "Renegadeware",
+"productName": "LL_5GB3",
+"productVersion": "1.0.0",
+"dataUrl": "LL_5GB3Test.data.unityweb",
+"wasmCodeUrl": "LL_5GB3Test.wasm.code.unityweb",
+"wasmFrameworkUrl": "LL_5GB3Test.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.8f1"
+}
