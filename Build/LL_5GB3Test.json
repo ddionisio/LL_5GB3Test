@@ -1,7 +1,7 @@
 {
 "companyName": "Renegadeware",
 "productName": "LL_5GB3",
-"productVersion": "1.0.0",
+"productVersion": "1.0.1",
 "dataUrl": "LL_5GB3Test.data.unityweb",
 "wasmCodeUrl": "LL_5GB3Test.wasm.code.unityweb",
 "wasmFrameworkUrl": "LL_5GB3Test.wasm.framework.unityweb",
@@ -12,5 +12,5 @@
 "cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,
-"unityVersion": "2019.2.8f1"
+"unityVersion": "2019.2.9f1"
 }
